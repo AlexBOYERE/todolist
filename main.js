@@ -1,1 +1,1 @@
-console.log('Hello World from main.js!');j
+console.log('Hello World from main.js!');
